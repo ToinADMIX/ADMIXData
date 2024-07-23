@@ -1,0 +1,5 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+MotorPower,JST_XH_S2B-XH-A-1_1x02_P2.50mm_Horizontal,1,MotorPower,
+Power ON,DS-850K-S-WD,1,SW_DPST_x2,
+SW2,ToggleSwitch,1,SW_DPDT_x2,
+VCC,JST_XH_S2B-XH-A-1_1x02_P2.50mm_Horizontal,1,VCC,
